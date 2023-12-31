@@ -1,0 +1,17 @@
+#price{
+    color: green;
+}
+
+#prod-card{
+    width: 18rem;
+    height: 7cm;
+}
+
+#prod-card img{
+    height: 5cm;
+    width: 100%;
+}
+
+#des{
+    font-family:cursive;
+}

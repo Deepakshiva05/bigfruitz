@@ -1,0 +1,7 @@
+#d2{
+    display: contents;
+
+}
+#d1,#d3,#d4{
+    display: none;
+}

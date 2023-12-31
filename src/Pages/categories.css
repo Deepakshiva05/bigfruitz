@@ -1,0 +1,24 @@
+#cat-cards{
+    height: 5.5cm;
+    width: 18rem;
+}
+
+#cat-cards img{
+    height: 4cm;
+    width: 100%;
+}
+
+#cardmid{
+    font-family:'Courier New', Courier, monospace
+}
+#btn{
+    width: 3cm;
+    margin-left: 1.4cm;
+    border-radius: 20px;
+}
+
+.con{
+    margin-top: 1.3cm;
+    margin-left: 0.5cm;
+    padding: 10px;
+}

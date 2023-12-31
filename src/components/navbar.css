@@ -1,0 +1,69 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Serif+Display:ital@1&display=swap');
+/* *{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+.row{
+    display: flex;
+
+}
+#navbar ul{
+    display: flex;
+}
+
+#navbar ul li{
+    list-style: none;
+}
+
+#navbar ul li a{
+    text-decoration: none;
+    color: black;
+}
+
+#bars{
+    font-size: 30px;
+    position: absolute;
+    right: 0.5cm;
+    visibility: hidden;
+}
+
+#cross{
+    font-size: 30px;
+    position: absolute;
+    right: 0.5cm;  
+    visibility: hidden;
+}
+
+@media (max-width:786px) {
+    
+    /* #navbar ul{
+        display: block;
+        position: absolute;
+        top: -1cm;
+        right: 0;
+        background-color: goldenrod;
+        padding-top: 3cm;
+        line-height: 2cm;
+        width: 7cm;
+        height: 100vh;
+        text-align: center;
+        font-weight: 600;
+        font-size: larger;
+    }
+
+
+    #cross{
+        visibility: visible;
+        position: relative;
+        top: 1.5cm;
+        left: .5cm;
+    }
+    #bars{
+        visibility: visible;
+    } 
+    #navbar ul{
+        gap: 0.5cm;
+    }
+} 
+*/
